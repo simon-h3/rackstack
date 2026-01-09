@@ -1,4 +1,4 @@
-name: Build OpenSCAD STLs and GIFs
+name: Build OpenSCAD STLs
 on:
   push:
     branches: [ main ]
